@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "967388497780",
+    "firebase_url": "https://ajjkala-3aa3f.firebaseio.com",
+    "project_id": "ajjkala-3aa3f",
+    "storage_bucket": "ajjkala-3aa3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967388497780:android:6a3fb4b0e0857cd4",
+        "android_client_info": {
+          "package_name": "com.example.szymo.ajjkalamba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967388497780-lvvhuibs2aqm1ptf1ipultbasosq92t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA2m3GyeG7lWiTa0DJfYgQoIcSouNbz1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967388497780-lvvhuibs2aqm1ptf1ipultbasosq92t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
